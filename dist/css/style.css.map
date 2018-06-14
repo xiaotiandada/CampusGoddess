@@ -1,1 +1,0 @@
-{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KAGA,SAGA,YALE,WAAA,KAQF,aACE,MAAA,MACA,OAAA,MACA,YAAA","file":"style.css","sourcesContent":["body {\n  background: #fff;\n}\nbody div {\n  background: #fff;\n}\nbody div h1 {\n  background: #fff;\n}\nbody div div {\n  width: 100px;\n  height: 100px;\n  line-height: 1;\n}\n"]}
