@@ -1,6 +1,2 @@
-div{
-    background: #333;
-    color: #333;
-}
-
+body,body div,body div h1{background:#fff}body div div{width:100px;height:100px;line-height:1}
 /*# sourceMappingURL=style.css.map */
