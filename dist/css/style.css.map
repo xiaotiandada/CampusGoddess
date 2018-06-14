@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAKA;IACI,iBAAsB;IACtB,YAAiB;CACpB","file":"style.css","sourcesContent":[":root {\n    --bg: #333;\n    --cg: #333;\n}\n\ndiv{\n    background: var(--bg);\n    color: var(--cg);\n}\n"]}

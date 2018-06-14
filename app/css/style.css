@@ -1,0 +1,9 @@
+:root {
+    --bg: #333;
+    --cg: #333;
+}
+
+div{
+    background: var(--bg);
+    color: var(--cg);
+}
