@@ -206,6 +206,9 @@ body {
   width: 440px;
   height: 100%;
 }
+.case-two-avdio {
+  margin-left: 10px;
+}
 .case-two-detail {
   position: relative;
 }
