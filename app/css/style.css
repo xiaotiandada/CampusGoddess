@@ -1,3 +1,8 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
 .fl {
   float: left;
 }
@@ -6,6 +11,7 @@
 }
 .header {
   width: 100%;
+  min-width: 1000px;
   height: 120px;
   background: #fff;
 }
@@ -69,6 +75,7 @@
 }
 .nav {
   width: 100%;
+  min-width: 1000px;
   height: 60px;
   background: #ff766c;
 }
@@ -98,19 +105,21 @@
 }
 .slider {
   width: 100%;
+  min-width: 1000px;
   height: 600px;
   background: url("../img/slider.jpg") no-repeat center center;
   background-size: cover;
 }
 .case-one {
   width: 100%;
+  min-width: 1000px;
   height: 800px;
   overflow: hidden;
 }
 .case-one-content {
-  width: 100%;
+  width: 1000px;
   height: 100%;
-  margin-top: 50px;
+  margin: 50px auto 0;
 }
 .case-one-content-top {
   width: 500px;
@@ -183,7 +192,8 @@
 }
 .case-two {
   width: 100%;
-  height: 400px;
+  min-width: 1000px;
+  height: 440px;
   margin-top: 40px;
 }
 .case-two-content {
@@ -193,7 +203,7 @@
 }
 .case-two-avdio,
 .case-two-detail {
-  width: 500px;
+  width: 400px;
   height: 100%;
 }
 .case-two-detail {
@@ -234,6 +244,7 @@
 }
 .case-three {
   width: 100%;
+  min-width: 1000px;
   height: 300px;
 }
 .case-three-content {
@@ -291,6 +302,7 @@
 }
 .case-five {
   width: 100%;
+  min-width: 1000px;
   height: 720px;
   margin-top: 60px;
 }
@@ -349,6 +361,7 @@
 }
 .case-six {
   width: 100%;
+  min-width: 1000px;
   height: 120px;
   background: #ff766c;
   margin-top: 140px;
@@ -362,6 +375,7 @@
 }
 .case-seven {
   width: 100%;
+  min-width: 1000px;
   height: 500px;
   margin-bottom: 100px;
 }
@@ -410,6 +424,7 @@
 }
 .footer {
   width: 100%;
+  min-width: 1000px;
   height: 440px;
   background: #3c3c3c;
 }
